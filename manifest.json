@@ -18,5 +18,8 @@
             "42": "images/favicon.png"
         }
     },
+    "web_accessible_resources": [
+        "src/words.js"
+    ],
     "manifest_version": 2
 }
