@@ -15,7 +15,7 @@
     "page_action": {
         "default_popup": "src/popup.html",
         "default_icon": {
-            "42": "images/favicon.png"
+            "42": "img/favicon.png"
         }
     },
     "web_accessible_resources": [
