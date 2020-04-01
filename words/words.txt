@@ -3,6 +3,7 @@ DJ
 ile
 oie
 mur
+âne
 trou
 kiwi
 lent
@@ -46,6 +47,7 @@ sakura
 réseau
 verrue
 salive
+bambou
 matelas
 oxygene
 citroen
@@ -88,8 +90,8 @@ tapis de bain
 table de nuit
 lance-flammes
 carte postale
-Buzz l'éclair
 marine le pen
+Buzz l\'éclair
 planche de surf
 alarme incendie
 marchand de glace
