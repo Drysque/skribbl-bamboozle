@@ -1,0 +1,22 @@
+{
+    "name": "Skribbl Bamboozle",
+    "version": "1.0",
+    "description": "Skribbl.io script",
+    "permissions": [
+        "activeTab",
+        "declarativeContent"
+    ],
+    "background": {
+        "scripts": [
+            "src/rules.js"
+        ],
+        "persistent": false
+    },
+    "page_action": {
+        "default_popup": "src/popup.html",
+        "default_icon": {
+            "42": "images/favicon.png"
+        }
+    },
+    "manifest_version": 2
+}
