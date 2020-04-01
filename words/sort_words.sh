@@ -1,3 +1,5 @@
+#!/usr/bin/bash
+
 FILE=words/words.txt
 JSFILE=src/words.js
 
@@ -21,7 +23,6 @@ exec 1>$TMPFILE
 
 # put js code in tmp file
 echo "export function getWords() {"
-echo "    // DO NOT ADD WORDS HERE. PLEASE USE SHELL SCRIPT"
 echo "    return ["
 while read -r line ; do
     echo "        '$line',"
