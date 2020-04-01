@@ -5,6 +5,7 @@ trou
 kiwi
 lent
 côte
+nemo
 paris
 table
 mugir
@@ -23,6 +24,7 @@ chiot
 panda
 phare
 loupe
+poire
 prison
 jambes
 chaton
@@ -45,18 +47,22 @@ internet
 danseuse
 cheville
 trombone
+patinage
 champagne
 cuisinier
 tarentule
 detective
+shampoing
 caoutchouc
 sage-femme
 micro-ondes
 helicoptere
 pom-pom girl
 lampe torche
+masque à gaz
 tapis de bain
 table de nuit
 planche de surf
+alarme incendie
 marchand de glace
 lunettes de soleil
