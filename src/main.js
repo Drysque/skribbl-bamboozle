@@ -13,8 +13,6 @@ printPossibilities = words => {
 bamboozle = async () => {
     wordRegex = new RegExp(`^${getCurrentWord().replace(/_/g, '.')}$`);
 
-    console.log('fetching words that look like ', wordRegex);
-
     words = (await getWords()).filter(word => word.match(wordRegex) !== null);
 
     if (words.length === 1) fillWord(words[0]);
