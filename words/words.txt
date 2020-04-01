@@ -1,8 +1,10 @@
+DJ
 œil
 ile
 trou
 kiwi
 lent
+côte
 paris
 table
 mugir
@@ -20,10 +22,13 @@ orage
 chiot
 panda
 phare
+loupe
 prison
 jambes
 chaton
 parent
+citron
+sakura
 matelas
 oxygene
 citroen
@@ -43,6 +48,7 @@ trombone
 champagne
 cuisinier
 tarentule
+detective
 caoutchouc
 sage-femme
 micro-ondes
