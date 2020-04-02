@@ -46,12 +46,14 @@ Baloo
 boire
 bombe
 chiot
+coupe
 crème
 crêpe
 danse
 fâché
 fanta
 Flash
+fuite
 fumée
 géant
 genou
@@ -96,6 +98,7 @@ argent
 bambou
 barman
 Bounty
+chaise
 chaton
 citron
 dindon
@@ -116,6 +119,7 @@ Minion
 mixeur
 mollet
 Monaco
+oignon
 papier
 parent
 poison
@@ -140,6 +144,7 @@ bâiller
 bourdon
 bretzel
 caleçon
+caneton
 cascade
 chambre
 chapeau
@@ -154,6 +159,7 @@ cracher
 Discord
 doritos
 escrime
+facteur
 fromage
 grenier
 Kakashi
@@ -163,6 +169,7 @@ Mexique
 oxygene
 palette
 parasol
+peluche
 pendule
 Pikachu
 piscine
@@ -181,6 +188,7 @@ bâtiment
 batterie
 capybara
 ceinture
+cercueil
 cheminée
 cheville
 chimiste
@@ -190,6 +198,7 @@ escargot
 fauteuil
 gerboise
 internet
+Logitech
 lunettes
 marmotte
 mascotte
@@ -206,6 +215,7 @@ sonnerie
 toboggan
 tracteur
 trombone
+astronome
 bouquetin
 capitaine
 casserole
@@ -217,6 +227,7 @@ detective
 epuisette
 Hong Kong
 libellule
+McDonalds
 Mer Noire
 meurtrier
 Microsoft
@@ -232,8 +243,10 @@ Spartacus
 tarentule
 téléscope
 tropicale
+Voldemort
 Bill Gates
 caoutchouc
+citrouille
 coquelicot
 Dark Vador
 deltaplane
@@ -264,8 +277,10 @@ arrêt de bus
 Barack Obama
 Bob l'éponge
 crème glacée
+intersection
 lampe torche
 masque à gaz
+mono-sourcil
 pom-pom girl
 télécommande
 tronçonneuse
@@ -308,6 +323,7 @@ tondeuse à gazon
 appareil dentaire
 balle de pistolet
 boîte à mouchoirs
+boîte de conserve
 François Hollande
 marchand de glace
 cour de récréation
