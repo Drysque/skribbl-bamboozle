@@ -11,7 +11,7 @@ printPossibilities = words => {
 };
 
 bamboozle = async () => {
-    wordRegex = new RegExp(`^${getCurrentWord().replace(/_/g, '.')}$`);
+    wordRegex = new RegExp(`^${getCurrentWord().replace(/_/g, '[^ -]')}$`);
 
     words = (await getWords()).filter(word => word.match(wordRegex) !== null);
 
