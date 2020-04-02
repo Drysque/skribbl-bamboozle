@@ -1,3 +1,4 @@
+
 DJ
 âne
 île
@@ -14,6 +15,7 @@ ciel
 clou
 côte
 Cuba
+dent
 Dory
 faim
 film
@@ -27,23 +29,31 @@ nemo
 noob
 Olaf
 pain
+rail
 robe
 roue
 slam
+surf
 Thor
 trou
 veau
+voie
+Zeus
 aigle
+bacon
 bague
 Baloo
+boire
 bombe
 chiot
 crème
 crêpe
 danse
+fâché
 fanta
 Flash
 fumée
+géant
 genou
 gland
 huile
@@ -51,6 +61,7 @@ ligne
 lilas
 loupe
 luigi
+magie
 magma
 merde
 métro
@@ -63,6 +74,7 @@ paris
 pelle
 phare
 piano
+pièce
 pizza
 poche
 poêle
@@ -80,14 +92,20 @@ Yoshi
 action
 aimant
 ananas
+argent
 bambou
+barman
 Bounty
 chaton
 citron
 dindon
+dollar
 dragon
 Égypte
 enfant
+éponge
+faisan
+fennec
 filtre
 fluide
 fouine
@@ -109,15 +127,19 @@ réseau
 réveil
 sakura
 salive
+souris
 stress
 tomate
+Toyota
 tulipe
 verrue
 visage
 antenne
 armoire
 bâiller
+bourdon
 bretzel
+caleçon
 cascade
 chambre
 chapeau
@@ -126,8 +148,11 @@ chemise
 ciseaux
 citroen
 collant
+collier
+console
 cracher
 Discord
+doritos
 escrime
 fromage
 grenier
@@ -137,6 +162,8 @@ matelas
 Mexique
 oxygene
 palette
+parasol
+pendule
 Pikachu
 piscine
 poisson
@@ -149,11 +176,14 @@ Spotify
 tartine
 trousse
 victime
+assassin
 bâtiment
 batterie
+capybara
 ceinture
 cheminée
 cheville
+chimiste
 danseuse
 entaille
 escargot
@@ -165,11 +195,15 @@ marmotte
 mascotte
 patinage
 patriote
+pic-vert
 plastron
 putaclic
 Raiponce
 retraite
 sandales
+scarabée
+sonnerie
+toboggan
 tracteur
 trombone
 bouquetin
@@ -180,26 +214,44 @@ chevreuil
 courgette
 cuisinier
 detective
+epuisette
 Hong Kong
+libellule
 Mer Noire
+meurtrier
+Microsoft
 Minecraft
 mini-golf
 minuscule
 promotion
+salopette
 saxophone
 shampoing
+spaghetti
 Spartacus
 tarentule
+téléscope
+tropicale
 Bill Gates
 caoutchouc
 coquelicot
+Dark Vador
+deltaplane
+entraîneur
 fléchettes
 fourchette
 géographie
+hirondelle
+hypnotiser
 lampadaire
+microphone
+musaraigne
+patisserie
 religieuse
 sage-femme
+skateboard
 sous-marin
+trampoline
 angry birds
 disparaître
 électricité
@@ -208,6 +260,7 @@ helicoptere
 micro-ondes
 petit baril
 teletubbies
+arrêt de bus
 Barack Obama
 Bob l'éponge
 crème glacée
@@ -215,6 +268,7 @@ lampe torche
 masque à gaz
 pom-pom girl
 télécommande
+tronçonneuse
 vélociraptor
 Blanche-Neige
 Buzz l'éclair
@@ -224,24 +278,32 @@ cochon d'inde
 esthéticienne
 Jacksepticeye
 lance-flammes
+lance-pierres
+lime à ongles
 marine le pen
+ruban adhésif
 table de nuit
-tapis de bain
 tapis de bain
 transpiration
 brosse à dents
-extraterrestre
+casse noisette
 extraterrestre
 fer à repasser
 pierre tombale
 punaise de lit
 Robin des bois
+rouge à lèvres
 alarme incendie
 Amérique du Sud
+flocon de neige
 goutte de pluie
+grande muraille
 Johnny Hallyday
 photo de classe
 planche de surf
+Princesse Peach
+fermeture éclair
+machine à coudre
 tondeuse à gazon
 appareil dentaire
 balle de pistolet
@@ -250,10 +312,12 @@ François Hollande
 marchand de glace
 cour de récréation
 lunettes de soleil
+planche à repasser
 présentateur météo
 saut à l'élastique
 téléphone portable
 bottle flip challenge
 Maman j'ai raté l'avion
 Patrick l'étoile de mer
+bataille de boules de neige
 Dragon blanc aux yeux bleus
