@@ -5,6 +5,7 @@ oie
 mur
 âne
 mer
+lit
 trou
 kiwi
 lent
@@ -12,6 +13,7 @@ côte
 nemo
 pain
 slam
+Nasa
 clou
 faim
 chat
@@ -29,6 +31,9 @@ bras
 Olaf
 fort
 Dory
+roue
+veau
+train
 paris
 table
 mugir
@@ -68,6 +73,10 @@ Yoshi
 gland
 sapin
 merde
+genou
+aigle
+ligne
+tulipe
 prison
 jambes
 chaton
@@ -102,6 +111,10 @@ réveil
 poison
 dindon
 maigre
+dragon
+poulet
+cracher
+charbon
 matelas
 oxygene
 citroen
@@ -132,6 +145,9 @@ Discord
 poisson
 cascade
 Kakashi
+antenne
+gerboise
+plastron
 ceinture
 marmotte
 batterie
@@ -152,6 +168,7 @@ sandales
 entaille
 patriote
 bâtiment
+Raiponce
 champagne
 cuisinier
 tarentule
@@ -169,6 +186,7 @@ chevreuil
 courgette
 bouquetin
 mini-golf
+saxophone
 caoutchouc
 sage-femme
 fourchette
@@ -178,6 +196,7 @@ lampadaire
 sous-marin
 géographie
 Bill Gates
+coquelicot
 micro-ondes
 helicoptere
 teletubbies
@@ -185,6 +204,7 @@ angry birds
 électricité
 funérailles
 disparaître
+petit baril
 pom-pom girl
 lampe torche
 masque à gaz
@@ -213,6 +233,7 @@ pierre tombale
 brosse à dents
 Robin des bois
 punaise de lit
+goutte de pluie
 planche de surf
 alarme incendie
 Johnny Hallyday
@@ -230,5 +251,6 @@ cour de récréation
 téléphone portable
 saut à l'élastique
 bottle flip challenge
+Maman j'ai raté l'avion
 Patrick l'étoile de mer
 Dragon blanc aux yeux bleus
