@@ -13,7 +13,7 @@ fi
 TMPFILE=mktemp
 
 # sort word by length
-cat $FILE | sort | awk '{ print length, $0 }'  | sort -n -s | cut -d" " -f2- > $TMPFILE
+cat $FILE | sort | awk '{ print length, $0 }'  | sort -n -s | cut -d" " -f2- | uniq > $TMPFILE
 
 # put tmp in js file
 mv $TMPFILE $FILE
