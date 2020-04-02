@@ -25,7 +25,7 @@ exec 1>$TMPFILE
 echo "export function getWords() {"
 echo "    return ["
 while read -r line ; do
-    echo "        '$line',"
+    echo "        \"$line\","
 done < $FILE
 echo -e "    ];\n}"
 
