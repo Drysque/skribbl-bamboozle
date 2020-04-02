@@ -14,10 +14,10 @@ A chrome extension that proposes words for skribbl.io
 * Click `Clear` to clear the console
 * Enjoy!
 
-No current word: 
+No current word:<br>
 ![No Word](https://github.com/Drysque/skribbl-bamboozle/blob/master/img/noword.png "No current word")
 
-Some words guessed: 
+Some words guessed:<br>
 ![Guessed](https://github.com/Drysque/skribbl-bamboozle/blob/master/img/guessed.png "Some words guessed")
 
 
