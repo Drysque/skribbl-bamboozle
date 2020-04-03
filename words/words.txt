@@ -2,6 +2,7 @@ dé
 DJ
 âne
 cil
+coq
 Gru
 île
 lac
@@ -13,8 +14,10 @@ nez
 oie
 USB
 9gag
+afro
 bébé
 bras
+cape
 chat
 ciel
 clou
@@ -30,31 +33,42 @@ Ikea
 kiwi
 lave
 lent
+lune
 lynx
+main
 mère
 Nasa
 nemo
 noob
 Olaf
 pain
+pile
 port
 raie
 rail
 robe
 roue
+sang
+skis
 slam
+soir
 surf
+thon
 Thor
 trou
 veau
+vice
 voie
 Zeus
 aigle
 bacon
 bague
 Baloo
+blanc
 boire
 bombe
+cadre
+carie
 carré
 chiot
 corde
@@ -64,6 +78,7 @@ crêpe
 danse
 fâché
 Fanta
+fille
 Flash
 forêt
 front
@@ -75,8 +90,10 @@ genou
 gland
 herbe
 huile
+Japon
 ligne
 lilas
+Linux
 loupe
 luigi
 magie
@@ -93,20 +110,24 @@ panda
 paris
 pêche
 pelle
+Pérou
 phare
 piano
 pièce
 pizza
+Pluto
 poche
 poêle
 poire
 radio
 radis
+rails
 renne
 sable
 sapin
 Sonic
 table
+tatou
 taupe
 tigre
 train
@@ -117,17 +138,25 @@ action
 aimant
 ananas
 argent
+aviron
 bambou
 banque
 barman
+biceps
 Bounty
+carafe
 Casper
+cercle
 chaise
 chaton
+chauve
+cheval
 cinéma
 citron
 cloche
 couper
+crayon
+croûte
 dindon
 dollar
 double
@@ -135,6 +164,7 @@ douche
 dragon
 Égypte
 enfant
+épaule
 éponge
 faisan
 fennec
@@ -143,41 +173,59 @@ filtre
 fluide
 fouine
 fraise
+France
+frites
 garçon
 gluant
+grippe
 Hawaii
+Israël
 jambes
+kraken
+lycaon
 Madrid
 maigre
 mariée
 Minion
 mixeur
+moitié
 mollet
 Monaco
+Munich
 naruto
 oignon
+orange
 papier
 parent
 penser
 phoque
+pioche
 poison
+Popeye
 porche
+poster
 poulet
 prison
 raisin
 Reddit
+reflet
 réseau
 réveil
+rideau
 sakura
+salade
 salive
 souris
+stéréo
 stress
+timbre
 tomate
 Toyota
 tulipe
 tunnel
 verrue
 visage
+abeille
 abysses
 Aladdin
 antenne
@@ -187,6 +235,7 @@ bazooka
 bourdon
 bretzel
 briquet
+buisson
 caleçon
 caneton
 cascade
@@ -203,8 +252,11 @@ collant
 collier
 console
 couteau
+Cow-Boy
 cracher
+croquer
 dauphin
+défoncé
 Discord
 doritos
 épingle
@@ -212,8 +264,10 @@ escrime
 facteur
 fourche
 fromage
+galaxie
 grenier
 hôpital
+horloge
 Kakashi
 marteau
 matelas
@@ -222,25 +276,32 @@ oreille
 oxygene
 palette
 parasol
+peintre
 peluche
 pendule
+perdant
 Pikachu
 piscine
 poireau
 poisson
+portail
 positif
 poussin
 reptile
 sangoku
 sangsue
 serpent
+serrure
 silence
+skateur
 spirale
 Spotify
+sucette
 tartine
 Titanic
 torchon
 Toronto
+tourner
 trousse
 victime
 assassin
@@ -250,15 +311,19 @@ bâtiment
 batterie
 cachalot
 capybara
+catcheur
 ceinture
 centaure
 cercueil
+chasseur
 cheminée
 cheville
 chimiste
+couscous
 danseuse
 entaille
 escargot
+faucille
 fauteuil
 gangster
 gerboise
@@ -268,8 +333,11 @@ Logitech
 lunettes
 marmotte
 mascotte
+moutarde
 patinage
 patriote
+Pays-Bas
+perruque
 pétanque
 pic-vert
 plastron
@@ -280,29 +348,39 @@ Roumanie
 sandales
 sans-fil
 scarabée
+Snapchat
 sonnerie
+sous-sol
 tablette
+tabouret
 toboggan
+toiletts
 tracteur
+triomphe
 trombone
 Tropical
 vitamine
 WhatsApp
+Allemagne
 astronome
+Atlantide
 aubergine
+bilboquet
 bouquetin
 bretelles
 capitaine
 casserole
 champagne
+charrette
 châtaigne
 chevreuil
 courgette
 cuisinier
 detective
-epuisette
+Dracaufeu
 épuisette
 groseille
+harmonica
 Hong Kong
 invisible
 jonquille
@@ -316,26 +394,37 @@ mini-golf
 minuscule
 président
 promotion
+radiateur
 salopette
 saxophone
+serviette
 shampoing
 spaghetti
 Spartacus
+Spiderman
 tarentule
 téléscope
 tropicale
+trou noir
 Voldemort
+youtubeur
 Bill Gates
+biologiste
+Bugs Bunny
 caoutchouc
 citrouille
+coccinelle
 coquelicot
 Dark Vador
 deltaplane
+dépanneuse
 dromadaire
 entraîneur
+États-Unis
 fléchettes
 fourchette
 géographie
+Happy Feet
 hirondelle
 hypnotiser
 lampadaire
@@ -345,7 +434,10 @@ Lucky Luke
 mayonnaise
 microphone
 musaraigne
+nourriture
+ordinateur
 patisserie
+petit pois
 religieuse
 sage-femme
 se reposer
@@ -354,21 +446,28 @@ skateboard
 sous-marin
 trampoline
 angry birds
+bac à sable
 chaussettes
+chewing-gum
 congélateur
 disparaître
 électricité
 funérailles
 helicoptere
+Jackie Chan
 micro-ondes
 petit baril
 sabre laser
+stylo plume
+supermarché
 teletubbies
 thermomètre
 arrêt de bus
 Barack Obama
 Bob l'éponge
+clé anglaise
 crème glacée
+Frankenstein
 intersection
 Jésus Christ
 lampe torche
@@ -394,11 +493,13 @@ lance-pierres
 lime à ongles
 marine le pen
 poisson rouge
+pomme d'amour
 ruban adhésif
 table de nuit
 tapis de bain
 tour de piste
 transpiration
+appareil photo
 brosse à dents
 casse noisette
 extraterrestre
@@ -412,35 +513,45 @@ Robin des bois
 rouge à lèvres
 alarme incendie
 Amérique du Sud
+cuillère à café
 flocon de neige
 goutte de pluie
 grande muraille
 Johnny Hallyday
+Michael Jackson
 photo de classe
 planche à voile
 planche de surf
 Princesse Peach
 tennis de table
+vernis à ongles
 brosse à cheveux
+coupe de cheveux
 fermeture éclair
 machine à coudre
+saut à la perche
+saut en longueur
 tondeuse à gazon
 appareil dentaire
 balle de pistolet
 boîte à mouchoirs
 boîte aux lettres
 boîte de conserve
+bonhomme de neige
 François Hollande
 lancer de javelot
 marchand de glace
 cour de récréation
 lunettes de soleil
+patins à roulettes
 planche à repasser
 présentateur météo
 saut à l'élastique
 téléphone portable
 Dora l'exploratrice
+Le génie de la lampe
 bottle flip challenge
+moissonneuse-batteuse
 Maman j'ai raté l'avion
 Patrick l'étoile de mer
 bataille de boules de neige
