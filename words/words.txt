@@ -1,3 +1,4 @@
+dé
 DJ
 âne
 cil
@@ -7,8 +8,10 @@ lac
 lit
 mer
 mur
+nez
 œil
 oie
+USB
 9gag
 bébé
 bras
@@ -52,21 +55,25 @@ bague
 Baloo
 boire
 bombe
+carré
 chiot
+corde
 coupe
 crème
 crêpe
 danse
 fâché
-fanta
 Fanta
 Flash
+forêt
 front
 fuite
 fumée
 géant
+gecko
 genou
 gland
+herbe
 huile
 ligne
 lilas
@@ -77,6 +84,7 @@ magma
 merde
 métro
 Milan
+mince
 mugir
 nuage
 océan
@@ -94,8 +102,10 @@ poêle
 poire
 radio
 radis
+renne
 sable
 sapin
+Sonic
 table
 taupe
 tigre
@@ -108,14 +118,20 @@ aimant
 ananas
 argent
 bambou
+banque
 barman
 Bounty
+Casper
 chaise
 chaton
 cinéma
 citron
+cloche
+couper
 dindon
 dollar
+double
+douche
 dragon
 Égypte
 enfant
@@ -126,11 +142,14 @@ feutre
 filtre
 fluide
 fouine
+fraise
+garçon
 gluant
 Hawaii
 jambes
 Madrid
 maigre
+mariée
 Minion
 mixeur
 mollet
@@ -156,18 +175,22 @@ stress
 tomate
 Toyota
 tulipe
+tunnel
 verrue
 visage
 abysses
+Aladdin
 antenne
 armoire
 bâiller
 bazooka
 bourdon
 bretzel
+briquet
 caleçon
 caneton
 cascade
+cerveau
 chambre
 chapeau
 charbon
@@ -179,9 +202,12 @@ colibri
 collant
 collier
 console
+couteau
 cracher
+dauphin
 Discord
 doritos
+épingle
 escrime
 facteur
 fourche
@@ -192,6 +218,7 @@ Kakashi
 marteau
 matelas
 Mexique
+oreille
 oxygene
 palette
 parasol
@@ -199,26 +226,32 @@ peluche
 pendule
 Pikachu
 piscine
+poireau
 poisson
+positif
 poussin
 reptile
 sangoku
 sangsue
 serpent
 silence
+spirale
 Spotify
 tartine
+Titanic
 torchon
 Toronto
 trousse
 victime
 assassin
 Babouche
+banquier
 bâtiment
 batterie
 cachalot
 capybara
 ceinture
+centaure
 cercueil
 cheminée
 cheville
@@ -237,11 +270,13 @@ marmotte
 mascotte
 patinage
 patriote
+pétanque
 pic-vert
 plastron
 putaclic
 Raiponce
 retraite
+Roumanie
 sandales
 sans-fil
 scarabée
@@ -251,19 +286,26 @@ toboggan
 tracteur
 trombone
 Tropical
+vitamine
+WhatsApp
 astronome
+aubergine
 bouquetin
+bretelles
 capitaine
 casserole
 champagne
+châtaigne
 chevreuil
 courgette
 cuisinier
 detective
 epuisette
 épuisette
+groseille
 Hong Kong
 invisible
+jonquille
 libellule
 McDonalds
 Mer Noire
@@ -272,6 +314,7 @@ Microsoft
 Minecraft
 mini-golf
 minuscule
+président
 promotion
 salopette
 saxophone
@@ -288,6 +331,7 @@ citrouille
 coquelicot
 Dark Vador
 deltaplane
+dromadaire
 entraîneur
 fléchettes
 fourchette
@@ -296,17 +340,21 @@ hirondelle
 hypnotiser
 lampadaire
 locomotive
+loup-garou
+Lucky Luke
 mayonnaise
 microphone
 musaraigne
 patisserie
 religieuse
 sage-femme
+se reposer
 serre-tête
 skateboard
 sous-marin
 trampoline
 angry birds
+chaussettes
 congélateur
 disparaître
 électricité
@@ -314,6 +362,7 @@ funérailles
 helicoptere
 micro-ondes
 petit baril
+sabre laser
 teletubbies
 thermomètre
 arrêt de bus
@@ -321,25 +370,30 @@ Barack Obama
 Bob l'éponge
 crème glacée
 intersection
+Jésus Christ
 lampe torche
 masque à gaz
 mono-sourcil
 montgolfière
 pom-pom girl
+talons hauts
 télécommande
 tronçonneuse
 vélociraptor
 Blanche-Neige
+bout du doigt
 Buzz l'éclair
 caisse claire
 carte postale
 cochon d'inde
 esthéticienne
+haltérophilie
 Jacksepticeye
 lance-flammes
 lance-pierres
 lime à ongles
 marine le pen
+poisson rouge
 ruban adhésif
 table de nuit
 tapis de bain
@@ -363,6 +417,7 @@ goutte de pluie
 grande muraille
 Johnny Hallyday
 photo de classe
+planche à voile
 planche de surf
 Princesse Peach
 tennis de table
@@ -373,6 +428,7 @@ tondeuse à gazon
 appareil dentaire
 balle de pistolet
 boîte à mouchoirs
+boîte aux lettres
 boîte de conserve
 François Hollande
 lancer de javelot
