@@ -1,8 +1,10 @@
 dé
 DJ
 âne
+bol
 cil
 coq
+eau
 Gru
 île
 lac
@@ -15,7 +17,10 @@ oie
 USB
 9gag
 afro
+Audi
 bébé
+bien
+bœuf
 bras
 cape
 chat
@@ -40,6 +45,7 @@ mère
 Nasa
 nemo
 noob
+nord
 Olaf
 pain
 pile
@@ -61,21 +67,25 @@ vice
 voie
 Zeus
 aigle
+amour
 bacon
 bague
 Baloo
+bisou
 blanc
 boire
 bombe
 cadre
 carie
 carré
+chien
 chiot
 corde
 coupe
 crème
 crêpe
 danse
+évier
 fâché
 Fanta
 fille
@@ -91,13 +101,16 @@ gland
 herbe
 huile
 Japon
+jaune
 ligne
 lilas
 Linux
 loupe
-luigi
+Luigi
 magie
 magma
+maire
+Mario
 merde
 métro
 Milan
@@ -105,6 +118,7 @@ mince
 mugir
 nuage
 océan
+odeur
 orage
 panda
 paris
@@ -118,13 +132,18 @@ pizza
 Pluto
 poche
 poêle
+poilu
 poire
+queue
+radar
 radio
 radis
 rails
 renne
 sable
 sapin
+sauna
+savon
 Sonic
 table
 tatou
@@ -134,6 +153,7 @@ train
 vague
 vigne
 Yoshi
+Zelda
 action
 aimant
 ananas
@@ -154,9 +174,11 @@ cheval
 cinéma
 citron
 cloche
+coffre
 couper
 crayon
 croûte
+danger
 dindon
 dollar
 double
@@ -191,6 +213,7 @@ mixeur
 moitié
 mollet
 Monaco
+muffin
 Munich
 naruto
 oignon
@@ -212,6 +235,7 @@ reflet
 réseau
 réveil
 rideau
+rougir
 sakura
 salade
 salive
@@ -220,6 +244,7 @@ stéréo
 stress
 timbre
 tomate
+toupie
 Toyota
 tulipe
 tunnel
@@ -232,9 +257,12 @@ antenne
 armoire
 bâiller
 bazooka
+biscuit
+bouchon
 bourdon
 bretzel
 briquet
+brochet
 buisson
 caleçon
 caneton
@@ -269,6 +297,7 @@ grenier
 hôpital
 horloge
 Kakashi
+Kit kat
 marteau
 matelas
 Mexique
@@ -292,8 +321,10 @@ sangoku
 sangsue
 serpent
 serrure
+serveur
 silence
 skateur
+soudeur
 spirale
 Spotify
 sucette
@@ -309,7 +340,9 @@ Babouche
 banquier
 bâtiment
 batterie
+Belgique
 cachalot
+caméléon
 capybara
 catcheur
 ceinture
@@ -320,13 +353,16 @@ cheminée
 cheville
 chimiste
 couscous
+cyclisme
 danseuse
+dentiste
 entaille
 escargot
 faucille
 fauteuil
 gangster
 gerboise
+hiberner
 internet
 Lisbonne
 Logitech
@@ -365,19 +401,27 @@ Allemagne
 astronome
 Atlantide
 aubergine
+betterave
 bilboquet
+boomerang
 bouquetin
 bretelles
+brochette
 capitaine
 casserole
 champagne
 charrette
 châtaigne
 chevreuil
+confiture
+cornemuse
+cornichon
 courgette
 cuisinier
 detective
 Dracaufeu
+eau salée
+émoticône
 épuisette
 groseille
 harmonica
@@ -397,13 +441,18 @@ promotion
 radiateur
 salopette
 saxophone
+sculpture
 serviette
 shampoing
 spaghetti
 Spartacus
 Spiderman
+squelette
 tarentule
 téléscope
+Thaïlande
+thé glacé
+trompette
 tropicale
 trou noir
 Voldemort
@@ -412,8 +461,11 @@ Bill Gates
 biologiste
 Bugs Bunny
 caoutchouc
+champignon
+chaussures
 citrouille
 coccinelle
+code morse
 coquelicot
 Dark Vador
 deltaplane
@@ -436,10 +488,13 @@ microphone
 musaraigne
 nourriture
 ordinateur
+pare-brise
 patisserie
 petit pois
 religieuse
+sac à main
 sage-femme
+se gonfler
 se reposer
 serre-tête
 skateboard
@@ -453,8 +508,9 @@ congélateur
 disparaître
 électricité
 funérailles
-helicoptere
+hélicoptere
 Jackie Chan
+jaune d'œuf
 micro-ondes
 petit baril
 sabre laser
@@ -462,11 +518,13 @@ stylo plume
 supermarché
 teletubbies
 thermomètre
+violoncelle
 arrêt de bus
 Barack Obama
 Bob l'éponge
 clé anglaise
 crème glacée
+flamant rose
 Frankenstein
 intersection
 Jésus Christ
@@ -491,10 +549,13 @@ Jacksepticeye
 lance-flammes
 lance-pierres
 lime à ongles
+manifestation
 marine le pen
 poisson rouge
 pomme d'amour
+porte-monnaie
 ruban adhésif
+sèche-cheveux
 table de nuit
 tapis de bain
 tour de piste
@@ -509,11 +570,13 @@ Morgan Freeman
 pierre tombale
 pomme de terre
 punaise de lit
+requin-baleine
 Robin des bois
 rouge à lèvres
 alarme incendie
 Amérique du Sud
 cuillère à café
+éléphant de mer
 flocon de neige
 goutte de pluie
 grande muraille
@@ -529,6 +592,7 @@ brosse à cheveux
 coupe de cheveux
 fermeture éclair
 machine à coudre
+poignée de porte
 saut à la perche
 saut en longueur
 tondeuse à gazon
@@ -539,8 +603,11 @@ boîte aux lettres
 boîte de conserve
 bonhomme de neige
 François Hollande
+Inspecteur Gadget
 lancer de javelot
 marchand de glace
+Titi et Grosminet
+voiture de course
 cour de récréation
 lunettes de soleil
 patins à roulettes
