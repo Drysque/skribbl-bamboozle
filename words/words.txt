@@ -1,6 +1,9 @@
 DJ
 âne
+cil
+Gru
 île
+lac
 lit
 mer
 mur
@@ -19,15 +22,20 @@ Dory
 faim
 film
 fort
+gang
 Ikea
 kiwi
+lave
 lent
+lynx
 mère
 Nasa
 nemo
 noob
 Olaf
 pain
+port
+raie
 rail
 robe
 roue
@@ -51,7 +59,9 @@ crêpe
 danse
 fâché
 fanta
+Fanta
 Flash
+front
 fuite
 fumée
 géant
@@ -66,12 +76,14 @@ magie
 magma
 merde
 métro
+Milan
 mugir
 nuage
 océan
 orage
 panda
 paris
+pêche
 pelle
 phare
 piano
@@ -110,9 +122,11 @@ enfant
 éponge
 faisan
 fennec
+feutre
 filtre
 fluide
 fouine
+gluant
 Hawaii
 jambes
 Madrid
@@ -121,11 +135,14 @@ Minion
 mixeur
 mollet
 Monaco
+naruto
 oignon
 papier
 parent
+penser
 phoque
 poison
+porche
 poulet
 prison
 raisin
@@ -141,9 +158,11 @@ Toyota
 tulipe
 verrue
 visage
+abysses
 antenne
 armoire
 bâiller
+bazooka
 bourdon
 bretzel
 caleçon
@@ -165,8 +184,10 @@ Discord
 doritos
 escrime
 facteur
+fourche
 fromage
 grenier
+hôpital
 Kakashi
 marteau
 matelas
@@ -181,16 +202,21 @@ piscine
 poisson
 poussin
 reptile
+sangoku
 sangsue
 serpent
 silence
 Spotify
 tartine
+torchon
+Toronto
 trousse
 victime
 assassin
+Babouche
 bâtiment
 batterie
+cachalot
 capybara
 ceinture
 cercueil
@@ -201,8 +227,10 @@ danseuse
 entaille
 escargot
 fauteuil
+gangster
 gerboise
 internet
+Lisbonne
 Logitech
 lunettes
 marmotte
@@ -222,6 +250,7 @@ tablette
 toboggan
 tracteur
 trombone
+Tropical
 astronome
 bouquetin
 capitaine
@@ -232,7 +261,9 @@ courgette
 cuisinier
 detective
 epuisette
+épuisette
 Hong Kong
+invisible
 libellule
 McDonalds
 Mer Noire
@@ -265,6 +296,7 @@ hirondelle
 hypnotiser
 lampadaire
 locomotive
+mayonnaise
 microphone
 musaraigne
 patisserie
@@ -275,6 +307,7 @@ skateboard
 sous-marin
 trampoline
 angry birds
+congélateur
 disparaître
 électricité
 funérailles
@@ -282,6 +315,7 @@ helicoptere
 micro-ondes
 petit baril
 teletubbies
+thermomètre
 arrêt de bus
 Barack Obama
 Bob l'éponge
@@ -290,6 +324,7 @@ intersection
 lampe torche
 masque à gaz
 mono-sourcil
+montgolfière
 pom-pom girl
 télécommande
 tronçonneuse
@@ -308,12 +343,16 @@ marine le pen
 ruban adhésif
 table de nuit
 tapis de bain
+tour de piste
 transpiration
 brosse à dents
 casse noisette
 extraterrestre
 fer à repasser
+Fred Pierrafeu
+Morgan Freeman
 pierre tombale
+pomme de terre
 punaise de lit
 Robin des bois
 rouge à lèvres
@@ -326,6 +365,8 @@ Johnny Hallyday
 photo de classe
 planche de surf
 Princesse Peach
+tennis de table
+brosse à cheveux
 fermeture éclair
 machine à coudre
 tondeuse à gazon
@@ -334,6 +375,7 @@ balle de pistolet
 boîte à mouchoirs
 boîte de conserve
 François Hollande
+lancer de javelot
 marchand de glace
 cour de récréation
 lunettes de soleil
@@ -341,6 +383,7 @@ planche à repasser
 présentateur météo
 saut à l'élastique
 téléphone portable
+Dora l'exploratrice
 bottle flip challenge
 Maman j'ai raté l'avion
 Patrick l'étoile de mer
