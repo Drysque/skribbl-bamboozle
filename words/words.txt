@@ -1,12 +1,14 @@
 dé
 DJ
 âne
+arc
 bol
 cil
 coq
 eau
 Gru
 île
+Jul
 lac
 lit
 mer
@@ -14,10 +16,12 @@ mur
 nez
 œil
 oie
+pot
 pub
 USB
 9gag
 afro
+aîné
 Audi
 bébé
 bien
@@ -39,6 +43,7 @@ Ikea
 kiwi
 lave
 lent
+loup
 lune
 lynx
 main
@@ -72,6 +77,7 @@ amour
 bacon
 bague
 Baloo
+bière
 bingo
 bisou
 blanc
@@ -81,11 +87,13 @@ cadre
 carie
 carré
 chien
+Chine
 chiot
 corde
 coupe
 crème
 crêpe
+cygne
 danse
 datte
 évier
@@ -119,6 +127,7 @@ merde
 métro
 Milan
 mince
+morse
 moule
 mugir
 niche
@@ -134,12 +143,14 @@ Pérou
 phare
 piano
 pièce
+piège
 pizza
 Pluto
 poche
 poêle
 poilu
 poire
+porte
 queue
 radar
 radio
@@ -147,6 +158,7 @@ radis
 rails
 reins
 renne
+ruche
 sable
 sapin
 sauna
@@ -219,6 +231,7 @@ lycaon
 Madrid
 maigre
 mariée
+menton
 Minion
 minuit
 mixeur
@@ -235,6 +248,7 @@ papier
 parent
 penser
 phoque
+pilote
 pioche
 poison
 Popeye
@@ -258,6 +272,7 @@ souris
 stéréo
 stress
 timbre
+timide
 tomate
 toupie
 Toyota
@@ -286,6 +301,7 @@ caneton
 cascade
 cerveau
 chambre
+chamois
 chapeau
 charbon
 chemise
@@ -300,10 +316,12 @@ couteau
 Cow-Boy
 cracher
 croquer
+culotte
 dauphin
 défoncé
 Discord
 doritos
+dossier
 épingle
 escrime
 étagère
@@ -312,12 +330,15 @@ fourche
 fromage
 galaxie
 grenier
+guitare
 hôpital
 horloge
 Jasmine
 Kakashi
 Kit kat
 licorne
+litière
+marelle
 mariage
 marteau
 matelas
@@ -363,6 +384,7 @@ victime
 assassin
 Babouche
 banquier
+barbecue
 bâtiment
 batterie
 Belgique
@@ -396,6 +418,7 @@ lunettes
 marmotte
 mascotte
 moutarde
+noisette
 patinage
 patriote
 paupière
@@ -423,13 +446,16 @@ triangle
 triomphe
 trombone
 Tropical
+vertical
 vitamine
 WhatsApp
+YU-GI-OH
 Allemagne
 astronome
 Atlantide
 aubergine
 Badminton
+Barcelone
 betterave
 bilboquet
 boomerang
@@ -458,6 +484,8 @@ Hong Kong
 invisible
 jonquille
 libellule
+librairie
+malbouffe
 McDonalds
 Mer Noire
 meurtrier
@@ -467,6 +495,7 @@ mini-golf
 minuscule
 parapente
 Photoshop
+poivrière
 président
 promotion
 radiateur
@@ -479,6 +508,7 @@ spaghetti
 Spartacus
 Spiderman
 squelette
+Starbucks
 tarentule
 téléscope
 Thaïlande
@@ -489,6 +519,7 @@ tropicale
 trou noir
 Voldemort
 youtubeur
+abdominaux
 Bill Gates
 biologiste
 Bugs Bunny
@@ -498,6 +529,7 @@ chaussures
 citrouille
 coccinelle
 code morse
+conducteur
 coquelicot
 Dark Vador
 deltaplane
@@ -518,6 +550,7 @@ lave-linge
 locomotive
 loup-garou
 Lucky Luke
+mal de dos
 mayonnaise
 microphone
 musaraigne
@@ -536,6 +569,7 @@ skateboard
 sous-marin
 trampoline
 angry birds
+arc-en-ciel
 bac à sable
 cerf-volant
 chaussettes
@@ -544,6 +578,7 @@ congélateur
 disparaître
 électricité
 funérailles
+gynécologue
 hélicoptere
 Jackie Chan
 jaune d'œuf
@@ -563,8 +598,10 @@ clé anglaise
 crème glacée
 flamant rose
 Frankenstein
+haut-parleur
 intersection
 Jésus Christ
+jus de fruit
 Kinder Bueno
 lampe torche
 masque à gaz
@@ -575,6 +612,7 @@ talons hauts
 télécommande
 tronçonneuse
 vélociraptor
+bâton sauteur
 Blanche-Neige
 bout du doigt
 Buzz l'éclair
@@ -589,6 +627,7 @@ lance-pierres
 lime à ongles
 manifestation
 marine le pen
+Mercedes Benz
 poisson rouge
 pomme d'amour
 porte-monnaie
@@ -607,6 +646,7 @@ fer à repasser
 Fred Pierrafeu
 mât de drapeau
 Morgan Freeman
+peau de banane
 pierre tombale
 pomme de terre
 punaise de lit
@@ -615,13 +655,16 @@ Robin des bois
 rouge à lèvres
 alarme incendie
 Amérique du Sud
+Charlie Chaplin
 cuillère à café
 éléphant de mer
 flocon de neige
+garde forestier
 goutte de pluie
 grande muraille
 Johnny Hallyday
 Michael Jackson
+pépins de pomme
 photo de classe
 planche à voile
 planche de surf
