@@ -16,6 +16,7 @@ mur
 nez
 œil
 oie
+pas
 pot
 pub
 USB
@@ -23,6 +24,7 @@ USB
 afro
 aîné
 Audi
+base
 bébé
 bien
 bœuf
@@ -35,6 +37,7 @@ côte
 Cuba
 dent
 Dory
+écho
 faim
 film
 fort
@@ -43,6 +46,7 @@ Ikea
 kiwi
 lave
 lent
+lion
 loup
 lune
 lynx
@@ -54,7 +58,9 @@ noob
 nord
 Olaf
 pain
+pays
 pile
+pneu
 port
 raie
 rail
@@ -65,6 +71,7 @@ skis
 slam
 soir
 surf
+tête
 thon
 Thor
 trou
@@ -74,6 +81,7 @@ voie
 Zeus
 aigle
 amour
+Ariel
 bacon
 bague
 Baloo
@@ -86,6 +94,7 @@ bombe
 cadre
 carie
 carré
+carte
 chien
 Chine
 chiot
@@ -96,9 +105,11 @@ crêpe
 cygne
 danse
 datte
+diner
 évier
 fâché
 Fanta
+fémur
 fille
 Flash
 forêt
@@ -186,6 +197,7 @@ banque
 barman
 biceps
 Bounty
+bronze
 carafe
 Casper
 cercle
@@ -210,6 +222,7 @@ dragon
 enfant
 épaule
 éponge
+étoile
 faisan
 fennec
 feutre
@@ -278,6 +291,7 @@ toupie
 Toyota
 tulipe
 tunnel
+vaccin
 verrue
 visage
 yaourt
@@ -287,6 +301,7 @@ Aladdin
 antenne
 armoire
 Astérix
+babouin
 bâiller
 bazooka
 biscuit
@@ -308,6 +323,7 @@ chemise
 cheveux
 ciseaux
 citroen
+clôture
 colibri
 collant
 collier
@@ -324,6 +340,7 @@ doritos
 dossier
 épingle
 escrime
+estomac
 étagère
 facteur
 fourche
@@ -331,6 +348,7 @@ fromage
 galaxie
 grenier
 guitare
+Gumball
 hôpital
 horloge
 Jasmine
@@ -338,6 +356,7 @@ Kakashi
 Kit kat
 licorne
 litière
+magasin
 marelle
 mariage
 marteau
@@ -346,6 +365,7 @@ message
 Mexique
 nombril
 oreille
+Orelsan
 oxygene
 palette
 parasol
@@ -357,10 +377,12 @@ Pikachu
 piscine
 poireau
 poisson
+poivron
 portail
 positif
 poussin
 reptile
+salière
 sangoku
 sangsue
 serpent
@@ -380,6 +402,7 @@ tornade
 Toronto
 tourner
 trousse
+Twitter
 victime
 assassin
 Babouche
@@ -399,6 +422,7 @@ chasseur
 cheminée
 cheville
 chimiste
+classeur
 couscous
 cyclisme
 danseuse
@@ -406,6 +430,7 @@ dentiste
 entaille
 escalier
 escargot
+esquimau
 faucille
 fauteuil
 gangster
@@ -419,6 +444,8 @@ marmotte
 mascotte
 moutarde
 noisette
+octogone
+omoplate
 patinage
 patriote
 paupière
@@ -451,6 +478,7 @@ vitamine
 WhatsApp
 YU-GI-OH
 Allemagne
+ambulance
 astronome
 Atlantide
 aubergine
@@ -469,6 +497,7 @@ charrette
 châtaigne
 chevreuil
 confiture
+continent
 cornemuse
 cornichon
 courgette
@@ -478,6 +507,7 @@ Dracaufeu
 eau salée
 émoticône
 épuisette
+étincelle
 groseille
 harmonica
 Hong Kong
@@ -509,6 +539,7 @@ Spartacus
 Spiderman
 squelette
 Starbucks
+tambourin
 tarentule
 téléscope
 Thaïlande
@@ -535,6 +566,7 @@ Dark Vador
 deltaplane
 dépanneuse
 dromadaire
+Dumbledore
 entraîneur
 États-Unis
 fléchettes
@@ -559,6 +591,7 @@ ordinateur
 pare-brise
 patisserie
 petit pois
+projecteur
 religieuse
 sac à main
 sage-femme
@@ -568,6 +601,7 @@ serre-tête
 skateboard
 sous-marin
 trampoline
+Volkswagen
 angry birds
 arc-en-ciel
 bac à sable
@@ -584,7 +618,9 @@ Jackie Chan
 jaune d'œuf
 micro-ondes
 petit baril
+Playstation
 sabre laser
+serpillière
 stylo plume
 supermarché
 teletubbies
@@ -594,8 +630,10 @@ violoncelle
 arrêt de bus
 Barack Obama
 Bob l'éponge
+cheeseburger
 clé anglaise
 crème glacée
+Donald Trump
 flamant rose
 Frankenstein
 haut-parleur
@@ -619,7 +657,10 @@ Buzz l'éclair
 caisse claire
 carte postale
 cochon d'inde
+Dragon Ball Z
 esthéticienne
+fruits de mer
+Green Lantern
 haltérophilie
 Jacksepticeye
 lance-flammes
@@ -628,6 +669,7 @@ lime à ongles
 manifestation
 marine le pen
 Mercedes Benz
+pied-de-biche
 poisson rouge
 pomme d'amour
 porte-monnaie
@@ -639,6 +681,7 @@ tour de piste
 transpiration
 appareil photo
 bâton de colle
+boîte à outils
 brosse à dents
 casse noisette
 extraterrestre
@@ -680,8 +723,10 @@ poignée de porte
 saut à la perche
 saut en longueur
 tondeuse à gazon
+tortue terrestre
 appareil dentaire
 balle de pistolet
+ballon dirigeable
 boîte à mouchoirs
 boîte aux lettres
 boîte de conserve
@@ -702,6 +747,7 @@ saut à l'élastique
 téléphone portable
 Dora l'exploratrice
 plongée sous-marine
+cabane dans un arbre
 Le génie de la lampe
 bottle flip challenge
 moissonneuse-batteuse
