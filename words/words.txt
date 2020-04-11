@@ -42,9 +42,12 @@ faim
 film
 fort
 gang
+gnou
 Ikea
+judo
 kiwi
 lave
+lego
 lent
 lion
 loup
@@ -75,6 +78,7 @@ tête
 thon
 Thor
 trou
+Twix
 veau
 vice
 voie
@@ -125,6 +129,8 @@ huile
 hyène
 Japon
 jaune
+Joker
+koala
 ligne
 lilas
 Linux
@@ -174,6 +180,7 @@ sable
 sapin
 sauna
 savon
+Simba
 sinus
 Sonic
 table
@@ -188,7 +195,9 @@ Yoshi
 Zelda
 action
 Adidas
+adulte
 aimant
+algues
 ananas
 argent
 aviron
@@ -196,6 +205,7 @@ bambou
 banque
 barman
 biceps
+bouche
 Bounty
 bronze
 carafe
@@ -233,6 +243,7 @@ fraise
 France
 frites
 garçon
+gaufre
 gluant
 grippe
 Hawaii
@@ -240,6 +251,7 @@ huître
 Israël
 jambes
 kraken
+lèvres
 lycaon
 Madrid
 maigre
@@ -247,6 +259,7 @@ mariée
 menton
 Minion
 minuit
+miroir
 mixeur
 moitié
 mollet
@@ -261,6 +274,7 @@ papier
 parent
 penser
 phoque
+pigeon
 pilote
 pioche
 poison
@@ -284,6 +298,7 @@ salive
 souris
 stéréo
 stress
+sudoku
 timbre
 timide
 tomate
@@ -304,6 +319,7 @@ Astérix
 babouin
 bâiller
 bazooka
+bermuda
 biscuit
 bouchon
 bourdon
@@ -338,6 +354,7 @@ défoncé
 Discord
 doritos
 dossier
+éboueur
 épingle
 escrime
 estomac
@@ -357,11 +374,13 @@ Kit kat
 licorne
 litière
 magasin
+manteau
 marelle
 mariage
 marteau
 matelas
 message
+meubles
 Mexique
 nombril
 oreille
@@ -404,6 +423,7 @@ tourner
 trousse
 Twitter
 victime
+arrosoir
 assassin
 Babouche
 banquier
@@ -424,9 +444,11 @@ cheville
 chimiste
 classeur
 couscous
+cuillère
 cyclisme
 danseuse
 dentiste
+Einstein
 entaille
 escalier
 escargot
@@ -446,6 +468,7 @@ moutarde
 noisette
 octogone
 omoplate
+pastèque
 patinage
 patriote
 paupière
@@ -490,6 +513,7 @@ boomerang
 bouquetin
 bretelles
 brochette
+Bruxelles
 capitaine
 casserole
 champagne
@@ -505,6 +529,7 @@ cuisinier
 detective
 Dracaufeu
 eau salée
+Elon Musk
 émoticône
 épuisette
 étincelle
@@ -524,7 +549,9 @@ Minecraft
 mini-golf
 minuscule
 parapente
+parapluie
 Photoshop
+Pinocchio
 poivrière
 président
 promotion
@@ -583,6 +610,8 @@ locomotive
 loup-garou
 Lucky Luke
 mal de dos
+mal de mer
+maquillage
 mayonnaise
 microphone
 musaraigne
@@ -610,10 +639,12 @@ chaussettes
 chewing-gum
 congélateur
 disparaître
+électricien
 électricité
 funérailles
 gynécologue
 hélicoptere
+Hello Kitty
 Jackie Chan
 jaune d'œuf
 micro-ondes
@@ -621,6 +652,7 @@ petit baril
 Playstation
 sabre laser
 serpillière
+spéléologue
 stylo plume
 supermarché
 teletubbies
@@ -641,6 +673,7 @@ intersection
 Jésus Christ
 jus de fruit
 Kinder Bueno
+La Faucheuse
 lampe torche
 masque à gaz
 mono-sourcil
@@ -648,10 +681,12 @@ montgolfière
 pom-pom girl
 talons hauts
 télécommande
+Tom et Jerry
 tronçonneuse
 vélociraptor
 bâton sauteur
 Blanche-Neige
+boîte de nuit
 bout du doigt
 Buzz l'éclair
 caisse claire
@@ -715,10 +750,14 @@ Princesse Peach
 tennis de table
 vernis à ongles
 brosse à cheveux
+coquille de noix
 coupe de cheveux
 fermeture éclair
 gant de toilette
+la panthère rose
 machine à coudre
+navire de combat
+pain au chocolat
 poignée de porte
 saut à la perche
 saut en longueur
@@ -727,6 +766,7 @@ tortue terrestre
 appareil dentaire
 balle de pistolet
 ballon dirigeable
+bateau de pirates
 boîte à mouchoirs
 boîte aux lettres
 boîte de conserve
