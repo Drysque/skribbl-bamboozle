@@ -19,6 +19,8 @@ oie
 pas
 pot
 pub
+riz
+sol
 USB
 9gag
 afro
@@ -38,16 +40,19 @@ clou
 côte
 Cuba
 dent
+dome
 Dory
 écho
 faim
 film
 fort
+four
 gang
 gant
 gnou
 Ikea
 judo
+jupe
 kiwi
 lave
 lego
@@ -72,6 +77,7 @@ raie
 rail
 robe
 roue
+sale
 sang
 skis
 slam
@@ -106,6 +112,7 @@ carte
 chien
 Chine
 chiot
+cible
 corde
 coude
 coupe
@@ -135,7 +142,10 @@ hyène
 Japon
 jaune
 Joker
+kayak
+Kirby
 koala
+lampe
 ligne
 lilas
 Linux
@@ -145,6 +155,7 @@ magie
 magma
 maire
 Mario
+matin
 merde
 métro
 Milan
@@ -159,6 +170,7 @@ odeur
 orage
 panda
 paris
+patte
 pêche
 pelle
 Pérou
@@ -173,6 +185,7 @@ poêle
 poilu
 poire
 porte
+prune
 queue
 radar
 radio
@@ -196,6 +209,7 @@ taupe
 tigre
 train
 vague
+vieux
 vigne
 virus
 Yoshi
@@ -217,6 +231,7 @@ bouche
 Bounty
 bronze
 brosse
+cactus
 canapé
 carafe
 Casper
@@ -226,11 +241,13 @@ chaise
 chaton
 chauve
 cheval
+chèvre
 cinéma
 citron
 cloche
 coffre
 couper
+course
 crayon
 croûte
 danger
@@ -279,6 +296,7 @@ muffin
 Munich
 naruto
 oignon
+option
 orange
 orteil
 papier
@@ -290,6 +308,7 @@ pigeon
 pilote
 pioche
 poison
+poivre
 Popeye
 porche
 poster
@@ -311,6 +330,7 @@ souris
 stéréo
 stress
 sudoku
+tampon
 timbre
 timide
 tomate
@@ -343,6 +363,7 @@ buisson
 caleçon
 caneton
 cascade
+centime
 cerveau
 chambre
 chamois
@@ -357,6 +378,7 @@ colibri
 collant
 collier
 console
+corbeau
 couteau
 Cow-Boy
 cracher
@@ -368,13 +390,16 @@ défoncé
 Discord
 doritos
 dossier
+Dracula
 éboueur
 épingle
 escrime
 estomac
 étagère
 facteur
+Ferrari
 feuille
+fougère
 fourche
 fromage
 galaxie
@@ -382,6 +407,7 @@ Gameboy
 grenier
 guitare
 Gumball
+haleine
 hôpital
 horloge
 Jasmine
@@ -391,6 +417,7 @@ licorne
 litière
 magasin
 manteau
+maracas
 marelle
 mariage
 marteau
@@ -404,6 +431,7 @@ oreille
 Orelsan
 oxygene
 palette
+palmier
 parasol
 peintre
 peluche
@@ -428,6 +456,7 @@ serrure
 serveur
 silence
 skateur
+sorcier
 soudeur
 spirale
 Spotify
@@ -450,14 +479,18 @@ barbecue
 bâtiment
 batterie
 Belgique
+braquage
 cachalot
 caméléon
 capybara
+carnaval
 catcheur
 ceinture
 centaure
 cercueil
+céréales
 chasseur
+chaudron
 cheminée
 cheville
 chimiste
@@ -478,6 +511,7 @@ fauteuil
 gangster
 gerboise
 graffiti
+handicap
 hiberner
 internet
 jumelles
@@ -502,7 +536,9 @@ pistache
 plastron
 putaclic
 Raiponce
+Red Bull
 retraite
+rockstar
 Roumanie
 sandales
 sans-fil
@@ -513,6 +549,7 @@ sorcière
 sous-sol
 tablette
 tabouret
+The Rock
 toboggan
 tracteur
 triangle
@@ -528,6 +565,7 @@ ambulance
 astronome
 Atlantide
 aubergine
+Australie
 Badminton
 Barcelone
 betterave
@@ -553,6 +591,7 @@ cornichon
 courgette
 cuisinier
 detective
+dinosaure
 Dracaufeu
 eau salée
 Elon Musk
@@ -563,6 +602,7 @@ groseille
 harmonica
 Hong Kong
 invisible
+jardinier
 jonquille
 libellule
 librairie
@@ -602,6 +642,7 @@ toilettes
 trompette
 tropicale
 trou noir
+voisinage
 Voldemort
 youtubeur
 abdominaux
@@ -609,11 +650,13 @@ Bill Gates
 biologiste
 Bugs Bunny
 caoutchouc
+Cendrillon
 champignon
 chaussures
 citrouille
 coccinelle
 code morse
+communisme
 conducteur
 coquelicot
 couverture
@@ -628,6 +671,7 @@ fléchettes
 Florizarre
 fourchette
 géographie
+grand-mère
 Happy Feet
 hirondelle
 hypnotiser
@@ -657,11 +701,14 @@ se reposer
 serre-tête
 skateboard
 sous-marin
+tourbillon
 trampoline
+tyrolienne
 Volkswagen
 angry birds
 arc-en-ciel
 bac à sable
+Burger King
 cerf-volant
 chaussettes
 chewing-gum
@@ -677,6 +724,7 @@ Hello Kitty
 Jackie Chan
 jaune d'œuf
 micro-ondes
+pain grillé
 petit baril
 Playstation
 rouge-gorge
@@ -685,6 +733,7 @@ serpillière
 spéléologue
 stylo plume
 supermarché
+tapis rouge
 teletubbies
 thermomètre
 verre à vin
@@ -729,6 +778,7 @@ chauve-souris
 cochon d'inde
 Dragon Ball Z
 esthéticienne
+étoile de mer
 fruits de mer
 Green Lantern
 haltérophilie
@@ -752,6 +802,7 @@ transpiration
 appareil photo
 bâton de colle
 boîte à outils
+boule de neige
 brosse à dents
 casse noisette
 extraterrestre
@@ -814,6 +865,7 @@ Leonardo DiCaprio
 marchand de glace
 Titi et Grosminet
 voiture de course
+colonne vertébrale
 cour de récréation
 lunettes de soleil
 patins à roulettes
@@ -828,6 +880,7 @@ cabane dans un arbre
 Le génie de la lampe
 bottle flip challenge
 moissonneuse-batteuse
+ventilateur de plafond
 Maman j'ai raté l'avion
 Patrick l'étoile de mer
 bataille de boules de neige
