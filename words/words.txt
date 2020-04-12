@@ -29,6 +29,8 @@ bébé
 bien
 bœuf
 bras
+caca
+cage
 cape
 chat
 ciel
@@ -42,6 +44,7 @@ faim
 film
 fort
 gang
+gant
 gnou
 Ikea
 judo
@@ -77,6 +80,7 @@ surf
 tête
 thon
 Thor
+Toad
 trou
 Twix
 veau
@@ -103,6 +107,7 @@ chien
 Chine
 chiot
 corde
+coude
 coupe
 crème
 crêpe
@@ -175,6 +180,7 @@ radis
 rails
 reins
 renne
+rêver
 ruche
 sable
 sapin
@@ -184,6 +190,7 @@ Simba
 sinus
 Sonic
 table
+tarte
 tatou
 taupe
 tigre
@@ -201,6 +208,7 @@ algues
 ananas
 argent
 aviron
+balcon
 bambou
 banque
 barman
@@ -208,9 +216,12 @@ biceps
 bouche
 Bounty
 bronze
+brosse
+canapé
 carafe
 Casper
 cercle
+chahut
 chaise
 chaton
 chauve
@@ -272,6 +283,7 @@ orange
 orteil
 papier
 parent
+peigne
 penser
 phoque
 pigeon
@@ -308,6 +320,7 @@ tulipe
 tunnel
 vaccin
 verrue
+vilain
 visage
 yaourt
 abeille
@@ -347,6 +360,7 @@ console
 couteau
 Cow-Boy
 cracher
+cravate
 croquer
 culotte
 dauphin
@@ -360,9 +374,11 @@ escrime
 estomac
 étagère
 facteur
+feuille
 fourche
 fromage
 galaxie
+Gameboy
 grenier
 guitare
 Gumball
@@ -383,6 +399,7 @@ message
 meubles
 Mexique
 nombril
+Nutella
 oreille
 Orelsan
 oxygene
@@ -392,8 +409,10 @@ peintre
 peluche
 pendule
 perdant
+Peugeot
 Pikachu
 piscine
+plateau
 poireau
 poisson
 poivron
@@ -450,6 +469,7 @@ danseuse
 dentiste
 Einstein
 entaille
+escabeau
 escalier
 escargot
 esquimau
@@ -457,8 +477,10 @@ faucille
 fauteuil
 gangster
 gerboise
+graffiti
 hiberner
 internet
+jumelles
 Lisbonne
 Logitech
 lunettes
@@ -487,6 +509,7 @@ sans-fil
 scarabée
 Snapchat
 sonnerie
+sorcière
 sous-sol
 tablette
 tabouret
@@ -516,10 +539,13 @@ brochette
 Bruxelles
 capitaine
 casserole
+Cat Woman
 champagne
+chanteuse
 charrette
 châtaigne
 chevreuil
+concombre
 confiture
 continent
 cornemuse
@@ -548,6 +574,7 @@ Microsoft
 Minecraft
 mini-golf
 minuscule
+ouverture
 parapente
 parapluie
 Photoshop
@@ -589,6 +616,7 @@ coccinelle
 code morse
 conducteur
 coquelicot
+couverture
 Dark Vador
 deltaplane
 dépanneuse
@@ -637,6 +665,7 @@ bac à sable
 cerf-volant
 chaussettes
 chewing-gum
+code-barres
 congélateur
 disparaître
 électricien
@@ -650,6 +679,7 @@ jaune d'œuf
 micro-ondes
 petit baril
 Playstation
+rouge-gorge
 sabre laser
 serpillière
 spéléologue
@@ -666,8 +696,10 @@ cheeseburger
 clé anglaise
 crème glacée
 Donald Trump
+eau de javel
 flamant rose
 Frankenstein
+Harry Potter
 haut-parleur
 intersection
 Jésus Christ
@@ -679,8 +711,10 @@ masque à gaz
 mono-sourcil
 montgolfière
 pom-pom girl
+se déhancher
 talons hauts
 télécommande
+téléphérique
 Tom et Jerry
 tronçonneuse
 vélociraptor
@@ -691,6 +725,7 @@ bout du doigt
 Buzz l'éclair
 caisse claire
 carte postale
+chauve-souris
 cochon d'inde
 Dragon Ball Z
 esthéticienne
@@ -757,6 +792,7 @@ gant de toilette
 la panthère rose
 machine à coudre
 navire de combat
+ours en gélatine
 pain au chocolat
 poignée de porte
 saut à la perche
@@ -785,6 +821,7 @@ planche à repasser
 présentateur météo
 saut à l'élastique
 téléphone portable
+caserne de pompiers
 Dora l'exploratrice
 plongée sous-marine
 cabane dans un arbre
