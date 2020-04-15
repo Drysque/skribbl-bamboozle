@@ -30,6 +30,7 @@ base
 bébé
 bien
 bœuf
+boxe
 bras
 caca
 cage
@@ -37,19 +38,23 @@ cape
 chat
 ciel
 clou
+cône
 côte
 Cuba
 dent
 dome
 Dory
 écho
+épée
 faim
 film
+fils
 fort
 four
 gang
 gant
 gnou
+grue
 Ikea
 judo
 jupe
@@ -65,6 +70,7 @@ main
 mère
 Nasa
 nemo
+Nike
 noob
 nord
 Olaf
@@ -83,6 +89,7 @@ skis
 slam
 soir
 surf
+taxi
 tête
 thon
 Thor
@@ -92,12 +99,14 @@ Twix
 veau
 vice
 voie
+yéti
 Zeus
 aigle
 amour
 Ariel
 bacon
 bague
+balai
 Baloo
 bière
 bingo
@@ -106,9 +115,11 @@ blanc
 boire
 bombe
 cadre
+canon
 carie
 carré
 carte
+chaud
 chien
 Chine
 chiot
@@ -122,13 +133,18 @@ cygne
 danse
 datte
 diner
+Dumbo
+écran
 évier
 fâché
 Fanta
 fémur
+fesse
 fille
 Flash
+flûte
 forêt
+fouet
 front
 fuite
 fumée
@@ -137,15 +153,18 @@ gecko
 genou
 gland
 herbe
+hibou
 huile
 hyène
 Japon
+jarre
 jaune
 Joker
 kayak
 Kirby
 koala
 lampe
+Liège
 ligne
 lilas
 Linux
@@ -154,6 +173,7 @@ Luigi
 magie
 magma
 maire
+marié
 Mario
 matin
 merde
@@ -168,11 +188,13 @@ nuage
 océan
 odeur
 orage
+ovale
 panda
 paris
 patte
 pêche
 pelle
+Pepsi
 Pérou
 phare
 piano
@@ -194,24 +216,31 @@ rails
 reins
 renne
 rêver
+rubis
 ruche
 sable
 sapin
 sauna
 savon
+scène
 Simba
 sinus
 Sonic
 table
 tarte
+tasse
 tatou
 taupe
+tibia
 tigre
+Tokyo
 train
 vague
 vieux
 vigne
 virus
+vomir
+wagon
 Yoshi
 Zelda
 action
@@ -226,6 +255,8 @@ balcon
 bambou
 banque
 barman
+batman
+Batman
 biceps
 bouche
 Bounty
@@ -256,6 +287,7 @@ dollar
 double
 douche
 dragon
+église
 Égypte
 enfant
 épaule
@@ -269,38 +301,47 @@ fluide
 fouine
 fraise
 France
+frelon
 frites
 garçon
+gâteau
 gaufre
 gluant
 grippe
 Hawaii
+homard
 huître
 Israël
 jambes
+jambon
 kraken
 lèvres
 lycaon
 Madrid
 maigre
+maison
 mariée
 menton
 Minion
+Minnie
 minuit
 miroir
 mixeur
 moitié
 mollet
 Monaco
+Moscou
 muffin
 Munich
 naruto
 oignon
 option
 orange
+orbite
 orteil
 papier
 parent
+pédale
 peigne
 penser
 phoque
@@ -314,11 +355,13 @@ porche
 poster
 poulet
 prison
+puzzle
 quiche
 raisin
 rasoir
 Reddit
 reflet
+renard
 réseau
 réveil
 rideau
@@ -336,9 +379,11 @@ timide
 tomate
 toupie
 Toyota
+triste
 tulipe
 tunnel
 vaccin
+ventre
 verrue
 vilain
 visage
@@ -351,17 +396,21 @@ armoire
 Astérix
 babouin
 bâiller
+balance
 bazooka
 bermuda
 biscuit
 bouchon
 bourdon
+bowling
 bretzel
 briquet
 brochet
 buisson
+burrito
 caleçon
 caneton
+caniche
 cascade
 centime
 cerveau
@@ -375,11 +424,14 @@ ciseaux
 citroen
 clôture
 colibri
+colisée
 collant
 collier
+comédie
 console
 corbeau
 couteau
+cow-boy
 Cow-Boy
 cracher
 cravate
@@ -387,7 +439,9 @@ croquer
 culotte
 dauphin
 défoncé
+diamant
 Discord
+docteur
 doritos
 dossier
 Dracula
@@ -404,15 +458,18 @@ fourche
 fromage
 galaxie
 Gameboy
+gravité
 grenier
 guitare
 Gumball
 haleine
 hôpital
 horloge
+humérus
 Jasmine
 Kakashi
 Kit kat
+lasagne
 licorne
 litière
 magasin
@@ -439,17 +496,19 @@ pendule
 perdant
 Peugeot
 Pikachu
+piranha
 piscine
 plateau
 poireau
 poisson
 poivron
+Pologne
 portail
 positif
 poussin
 reptile
 salière
-sangoku
+Sangoku
 sangsue
 serpent
 serrure
@@ -471,6 +530,8 @@ tourner
 trousse
 Twitter
 victime
+accident
+arroseur
 arrosoir
 assassin
 Babouche
@@ -483,25 +544,31 @@ braquage
 cachalot
 caméléon
 capybara
+Caraïbes
 carnaval
 catcheur
 ceinture
 centaure
 cercueil
 céréales
+champion
 chasseur
 chaudron
 cheminée
 cheville
 chimiste
 classeur
+cocktail
+coquille
 couscous
 cuillère
 cyclisme
 danseuse
 dentiste
+écrivain
 Einstein
 entaille
+épinards
 escabeau
 escalier
 escargot
@@ -515,15 +582,21 @@ handicap
 hiberner
 internet
 jumelles
+limonade
 Lisbonne
 Logitech
 lunettes
+macaroni
+mâchoire
 marmotte
 mascotte
+molaires
 moutarde
 noisette
 octogone
 omoplate
+oreiller
+passoire
 pastèque
 patinage
 patriote
@@ -534,6 +607,7 @@ pétanque
 pic-vert
 pistache
 plastron
+portrait
 putaclic
 Raiponce
 Red Bull
@@ -543,10 +617,13 @@ Roumanie
 sandales
 sans-fil
 scarabée
+scorpion
 Snapchat
 sonnerie
 sorcière
+soupière
 sous-sol
+Superman
 tablette
 tabouret
 The Rock
@@ -562,22 +639,29 @@ WhatsApp
 YU-GI-OH
 Allemagne
 ambulance
+antivirus
+ascenseur
 astronome
 Atlantide
 aubergine
 Australie
 Badminton
+baguettes
+baignoire
 Barcelone
+Beethoven
 betterave
 bilboquet
 boomerang
 bouquetin
 bretelles
 brochette
+Bruce Lee
 Bruxelles
 capitaine
 casserole
 Cat Woman
+cauchemar
 champagne
 chanteuse
 charrette
@@ -589,7 +673,9 @@ continent
 cornemuse
 cornichon
 courgette
+croissant
 cuisinier
+désespéré
 detective
 dinosaure
 Dracaufeu
@@ -607,6 +693,7 @@ jonquille
 libellule
 librairie
 malbouffe
+Marseille
 McDonalds
 Mer Noire
 meurtrier
@@ -617,12 +704,14 @@ minuscule
 ouverture
 parapente
 parapluie
+perroquet
 Photoshop
 Pinocchio
 poivrière
 président
 promotion
 radiateur
+radiation
 salopette
 saxophone
 sculpture
@@ -646,12 +735,14 @@ voisinage
 Voldemort
 youtubeur
 abdominaux
+astronaute
 Bill Gates
 biologiste
 Bugs Bunny
 caoutchouc
 Cendrillon
 champignon
+chargement
 chaussures
 citrouille
 coccinelle
@@ -662,6 +753,7 @@ coquelicot
 couverture
 Dark Vador
 deltaplane
+dentifrice
 dépanneuse
 dromadaire
 Dumbledore
@@ -696,6 +788,7 @@ projecteur
 religieuse
 sac à main
 sage-femme
+Schtroumpf
 se gonfler
 se reposer
 serre-tête
@@ -708,6 +801,7 @@ Volkswagen
 angry birds
 arc-en-ciel
 bac à sable
+basket-ball
 Burger King
 cerf-volant
 chaussettes
@@ -718,9 +812,11 @@ disparaître
 électricien
 électricité
 funérailles
+grille-pain
 gynécologue
 hélicoptere
 Hello Kitty
+imperméable
 Jackie Chan
 jaune d'œuf
 micro-ondes
@@ -747,6 +843,7 @@ crème glacée
 Donald Trump
 eau de javel
 flamant rose
+fond d'écran
 Frankenstein
 Harry Potter
 haut-parleur
@@ -759,6 +856,8 @@ lampe torche
 masque à gaz
 mono-sourcil
 montgolfière
+Océan Indien
+poils de nez
 pom-pom girl
 se déhancher
 talons hauts
@@ -776,6 +875,7 @@ caisse claire
 carte postale
 chauve-souris
 cochon d'inde
+crotte de nez
 Dragon Ball Z
 esthéticienne
 étoile de mer
@@ -783,9 +883,11 @@ fruits de mer
 Green Lantern
 haltérophilie
 Jacksepticeye
+jeu de crates
 lance-flammes
 lance-pierres
 lime à ongles
+lit superposé
 manifestation
 marine le pen
 Mercedes Benz
@@ -793,6 +895,7 @@ pied-de-biche
 poisson rouge
 pomme d'amour
 porte-monnaie
+réfrigérateur
 ruban adhésif
 sèche-cheveux
 table de nuit
@@ -804,6 +907,7 @@ bâton de colle
 boîte à outils
 boule de neige
 brosse à dents
+caddie de golf
 casse noisette
 extraterrestre
 fer à repasser
@@ -819,9 +923,11 @@ Robin des bois
 rouge à lèvres
 alarme incendie
 Amérique du Sud
+boîte à gâteaux
 Charlie Chaplin
 cuillère à café
 éléphant de mer
+épave de navire
 flocon de neige
 garde forestier
 goutte de pluie
@@ -843,9 +949,11 @@ gant de toilette
 la panthère rose
 machine à coudre
 navire de combat
+nugget de poulet
 ours en gélatine
 pain au chocolat
 poignée de porte
+prise de courant
 saut à la perche
 saut en longueur
 tondeuse à gazon
@@ -858,6 +966,7 @@ boîte à mouchoirs
 boîte aux lettres
 boîte de conserve
 bonhomme de neige
+Cristiano Ronaldo
 François Hollande
 Inspecteur Gadget
 lancer de javelot
@@ -876,6 +985,7 @@ téléphone portable
 caserne de pompiers
 Dora l'exploratrice
 plongée sous-marine
+stalactite de glace
 cabane dans un arbre
 Le génie de la lampe
 bottle flip challenge
