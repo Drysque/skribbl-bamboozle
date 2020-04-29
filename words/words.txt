@@ -1,5 +1,6 @@
 dé
 DJ
+or
 âne
 arc
 bol
@@ -20,6 +21,8 @@ pas
 pot
 pub
 riz
+rue
+sel
 sol
 USB
 9gag
@@ -56,9 +59,11 @@ gant
 gnou
 grue
 Ikea
+Ipad
 judo
 jupe
 kiwi
+lama
 lave
 lego
 lent
@@ -68,9 +73,9 @@ lune
 lynx
 main
 mère
+moto
 Nasa
-nemo
-Nike
+Nemo
 noob
 nord
 Olaf
@@ -85,6 +90,7 @@ robe
 roue
 sale
 sang
+seau
 skis
 slam
 soir
@@ -100,6 +106,7 @@ veau
 vice
 voie
 yéti
+Yoda
 Zeus
 aigle
 amour
@@ -125,8 +132,10 @@ Chine
 chiot
 cible
 corde
+côtes
 coude
 coupe
+crabe
 crème
 crêpe
 cygne
@@ -148,10 +157,13 @@ fouet
 front
 fuite
 fumée
+fusée
 géant
 gecko
 genou
+genre
 gland
+gorge
 herbe
 hibou
 huile
@@ -180,6 +192,7 @@ merde
 métro
 Milan
 mince
+monde
 morse
 moule
 mugir
@@ -187,6 +200,7 @@ niche
 nuage
 océan
 odeur
+ongle
 orage
 ovale
 panda
@@ -201,10 +215,12 @@ piano
 pièce
 piège
 pizza
+plein
 Pluto
 poche
 poêle
 poilu
+point
 poire
 porte
 prune
@@ -263,10 +279,13 @@ Bounty
 bronze
 brosse
 cactus
+cafard
 canapé
+Cannes
 carafe
 Casper
 cercle
+cerise
 chahut
 chaise
 chaton
@@ -279,6 +298,7 @@ cloche
 coffre
 couper
 course
+cousin
 crayon
 croûte
 danger
@@ -303,6 +323,7 @@ fraise
 France
 frelon
 frites
+Gandhi
 garçon
 gâteau
 gaufre
@@ -316,11 +337,13 @@ jambes
 jambon
 kraken
 lèvres
+louche
 lycaon
 Madrid
 maigre
 maison
 mariée
+méduse
 menton
 Minion
 Minnie
@@ -331,10 +354,12 @@ moitié
 mollet
 Monaco
 Moscou
+mouton
 muffin
 Munich
 naruto
 oignon
+oiseau
 option
 orange
 orbite
@@ -348,6 +373,7 @@ phoque
 pigeon
 pilote
 pioche
+points
 poison
 poivre
 Popeye
@@ -374,12 +400,14 @@ stéréo
 stress
 sudoku
 tampon
+Tetris
 timbre
 timide
 tiroir
 tomate
 toupie
 Toyota
+trèfle
 triste
 tulipe
 tunnel
@@ -388,6 +416,7 @@ ventre
 verrue
 vilain
 visage
+volcan
 yaourt
 abeille
 abysses
@@ -410,6 +439,7 @@ briquet
 brochet
 buisson
 burrito
+calamar
 caleçon
 caneton
 caniche
@@ -444,6 +474,7 @@ défoncé
 diamant
 Discord
 docteur
+dominos
 doritos
 dossier
 Dracula
@@ -455,6 +486,8 @@ estomac
 facteur
 Ferrari
 feuille
+Firefox
+Floride
 fougère
 fourche
 fromage
@@ -470,8 +503,11 @@ horloge
 humérus
 Jasmine
 Kakashi
+karaoké
+ketchup
 Kit kat
 lasagne
+léviter
 licorne
 litière
 magasin
@@ -484,6 +520,7 @@ matelas
 message
 meubles
 Mexique
+missile
 nombril
 Nutella
 oreille
@@ -501,6 +538,7 @@ Pikachu
 piranha
 piscine
 plateau
+poignet
 poireau
 poisson
 poivron
@@ -519,6 +557,7 @@ silence
 skateur
 sorcier
 soudeur
+sourire
 spirale
 Spotify
 sucette
@@ -533,6 +572,7 @@ trousse
 Twitter
 victime
 accident
+anaconda
 arroseur
 arrosoir
 assassin
@@ -557,10 +597,12 @@ champion
 chasseur
 chaudron
 cheminée
+chenille
 cheville
 chimiste
 classeur
 cocktail
+Converse
 coquille
 couscous
 cuillère
@@ -569,8 +611,10 @@ danseuse
 dentiste
 écrivain
 Einstein
+émeraude
 entaille
 épinards
+équateur
 escabeau
 escalier
 escargot
@@ -611,9 +655,13 @@ pistache
 plastron
 portrait
 putaclic
+pyramide
 Raiponce
+rebondir
+recycler
 Red Bull
 retraite
+retraité
 rockstar
 Roumanie
 sandales
@@ -635,6 +683,7 @@ triangle
 triomphe
 trombone
 Tropical
+venimeux
 vertical
 vitamine
 WhatsApp
@@ -675,6 +724,7 @@ continent
 cornemuse
 cornichon
 courgette
+croisière
 croissant
 cuisinier
 désespéré
@@ -686,14 +736,19 @@ Elon Musk
 émoticône
 épuisette
 étincelle
+étiquette
+évolution
+gazinière
 groseille
 harmonica
 Hong Kong
 invisible
 jardinier
 jonquille
+kangourou
 libellule
 librairie
+majordome
 malbouffe
 Marseille
 McDonalds
@@ -738,6 +793,7 @@ voisinage
 Voldemort
 youtubeur
 abdominaux
+architecte
 astronaute
 Bill Gates
 biologiste
@@ -747,6 +803,7 @@ Cendrillon
 champignon
 chargement
 chaussures
+cheesecake
 citrouille
 coccinelle
 code morse
@@ -754,6 +811,7 @@ communisme
 conducteur
 coquelicot
 couverture
+Daffy Duck
 Dark Vador
 deltaplane
 dentifrice
@@ -770,6 +828,7 @@ grand-mère
 Happy Feet
 hirondelle
 hypnotiser
+imprimante
 labyrinthe
 lampadaire
 lave-linge
@@ -780,6 +839,7 @@ mal de dos
 mal de mer
 maquillage
 mayonnaise
+mécanicien
 microphone
 musaraigne
 nourriture
@@ -797,6 +857,7 @@ se reposer
 serre-tête
 skateboard
 sous-marin
+Steve Jobs
 tourbillon
 trampoline
 tyrolienne
@@ -826,6 +887,7 @@ micro-ondes
 pain grillé
 petit baril
 Playstation
+Ron Weasley
 rouge-gorge
 sabre laser
 serpillière
@@ -833,16 +895,20 @@ spéléologue
 stylo plume
 supermarché
 tapis rouge
+télécharger
 teletubbies
 thermomètre
 verre à vin
 violoncelle
 arrêt de bus
+articulation
 Barack Obama
+bibliothèque
 Bob l'éponge
 cheeseburger
 clé anglaise
 crème glacée
+distributeur
 Donald Trump
 eau de javel
 flamant rose
@@ -859,7 +925,9 @@ lampe torche
 masque à gaz
 mono-sourcil
 montgolfière
+noix de coco
 Océan Indien
+ours polaire
 poils de nez
 pom-pom girl
 se déhancher
@@ -894,6 +962,7 @@ lit superposé
 manifestation
 marine le pen
 Mercedes Benz
+ornithorynque
 pied-de-biche
 poisson rouge
 pomme d'amour
@@ -912,6 +981,7 @@ boule de neige
 brosse à dents
 caddie de golf
 casse noisette
+coup de soleil
 extraterrestre
 fer à repasser
 Fred Pierrafeu
@@ -937,7 +1007,9 @@ garde forestier
 goutte de pluie
 grande muraille
 Johnny Hallyday
+Les Super Nanas
 Michael Jackson
+Océan Pacifique
 pépins de pomme
 photo de classe
 planche à voile
@@ -978,10 +1050,13 @@ Inspecteur Gadget
 lancer de javelot
 Leonardo DiCaprio
 marchand de glace
+ourson en peluche
 Titi et Grosminet
 voiture de course
+arcade sourcilière
 colonne vertébrale
 cour de récréation
+homme des cavernes
 lunettes de soleil
 patins à roulettes
 planche à repasser
@@ -1000,5 +1075,6 @@ moissonneuse-batteuse
 ventilateur de plafond
 Maman j'ai raté l'avion
 Patrick l'étoile de mer
+guitare électro-acoustique
 bataille de boules de neige
 Dragon blanc aux yeux bleus
