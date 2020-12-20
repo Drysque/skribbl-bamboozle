@@ -16,6 +16,7 @@ mer
 mur
 nez
 œil
+œuf
 oie
 pas
 pot
@@ -44,6 +45,7 @@ clou
 cône
 côte
 Cuba
+dame
 dent
 dome
 Dory
@@ -121,6 +123,7 @@ bisou
 blanc
 boire
 bombe
+buche
 cadre
 canon
 carie
@@ -171,6 +174,7 @@ hyène
 Japon
 jarre
 jaune
+jeudi
 Joker
 kayak
 Kirby
@@ -182,9 +186,11 @@ lilas
 Linux
 loupe
 Luigi
+lundi
 magie
 magma
 maire
+mardi
 marié
 Mario
 matin
@@ -192,6 +198,7 @@ merde
 métro
 Milan
 mince
+momie
 monde
 morse
 moule
@@ -278,6 +285,7 @@ bouche
 Bounty
 bronze
 brosse
+cabane
 cactus
 cafard
 canapé
@@ -296,6 +304,7 @@ cinéma
 citron
 cloche
 coffre
+couche
 couper
 course
 cousin
@@ -395,16 +404,20 @@ rougir
 sakura
 salade
 salive
+samedi
+sirène
 souris
 stéréo
 stress
 sudoku
 tampon
 Tetris
+ticket
 timbre
 timide
 tiroir
 tomate
+toucan
 toupie
 Toyota
 trèfle
@@ -432,6 +445,7 @@ bazooka
 bermuda
 biscuit
 bouchon
+bouleau
 bourdon
 bowling
 bretzel
@@ -579,6 +593,7 @@ assassin
 Babouche
 banquier
 barbecue
+barbiche
 bâtiment
 batterie
 Belgique
@@ -609,6 +624,7 @@ cuillère
 cyclisme
 danseuse
 dentiste
+dimanche
 écrivain
 Einstein
 émeraude
@@ -636,6 +652,7 @@ macaroni
 mâchoire
 marmotte
 mascotte
+mercredi
 molaires
 moutarde
 noisette
@@ -678,11 +695,13 @@ tablette
 tabouret
 The Rock
 toboggan
+touriste
 tracteur
 triangle
 triomphe
 trombone
 Tropical
+vendredi
 venimeux
 vertical
 vitamine
@@ -730,6 +749,7 @@ cuisinier
 désespéré
 detective
 dinosaure
+directeur
 Dracaufeu
 eau salée
 Elon Musk
@@ -758,8 +778,10 @@ Microsoft
 Minecraft
 mini-golf
 minuscule
+otamatone
 ouverture
 paintball
+pansement
 parapente
 parapluie
 perroquet
@@ -938,6 +960,7 @@ Tom et Jerry
 tronçonneuse
 vélociraptor
 bâton sauteur
+Blanche Neige
 Blanche-Neige
 boîte de nuit
 bout du doigt
@@ -1023,6 +1046,7 @@ coquille de noix
 coupe de cheveux
 fermeture éclair
 gant de toilette
+heure du coucher
 la panthère rose
 machine à coudre
 navire de combat
